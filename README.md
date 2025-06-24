@@ -21,8 +21,11 @@ Trang chủ Python đã cung cấp các endpoint JSON chính thức để truy c
 
 | Tên API | Link |
 |---------|-------|------|
-| phiên bản cũ và mới | [index-windows.json](https://www.python.org/ftp/python/index-windows.json) |
-| Phiên bản cũ (Legacy) [index-windows-legacy.json](https://www.python.org/ftp/python/index-windows-legacy.json) |
-| Phiên bản mới (Recent) [index-windows-recent.json](https://www.python.org/ftp/python/index-windows-recent.json) |
+| phiên bản cũ và mới | [index-windows.json](https://www.python.org/ftp/python/index-windows.json)
+
+| Phiên bản cũ (Legacy) [index-windows-legacy.json](https://www.python.org/ftp/python/index-windows-legacy.json)
+
+| Phiên bản mới (Recent) [index-windows-recent.json](https://www.python.org/ftp/python/index-windows-recent.json)
+
 
 
