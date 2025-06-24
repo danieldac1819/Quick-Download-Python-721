@@ -19,8 +19,8 @@ Tuy nhiên, **API proxy cloud hiện không còn hoạt động**, do bị chặ
 
 Trang chủ Python đã cung cấp các endpoint JSON chính thức để truy cập danh sách phiên bản dành cho Windows:
 
-| Tên API | Link |
-|---------|-------|------|
+
+
 | phiên bản cũ và mới | [index-windows.json](https://www.python.org/ftp/python/index-windows.json)
 
 | Phiên bản cũ (Legacy) [index-windows-legacy.json](https://www.python.org/ftp/python/index-windows-legacy.json)
